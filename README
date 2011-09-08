@@ -1,0 +1,9 @@
+Simple node server for testing GLS.
+
+To use, in Firefox, change geo.wifi.uri to point at your server.  For example:
+
+http://127.0.0.1:8000/?lat=1&lon=2&acc=100
+
+will return a position at 1 latitude, 2 longitude with 100m accuracy.
+
+ 
